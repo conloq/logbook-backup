@@ -57,14 +57,12 @@ As tarefas abaixo foram planejadas (issue/PR de planejamento), mas não foram en
 - **[ARTIGO] Fundamentar Visão Computacional aplicada ao teste de iodo** — conloq/mash
 - **[ARTIGO] Documentar OpenCV, espaço de cor e parâmetros do método** — conloq/mash
 - **[ARTIGO] Documentar protocolo, coleta e resultados da validação experimental** — conloq/mash
-- **[ARTIGO] Ampliar e registrar o Estado da Arte sobre inspeção por imagem** — conloq/mash
 - **[BACKEND] Disponibilizar histórico de análises de iodo por lote** — conloq/mash
 - **[ARTIGO] Fundamentar o processamento digital de imagens usado na análise do teste de iodo** — conloq/mash
 - **[DESIGN] Adicionar ícones à seção de propósitos** — conloq/mash
 - **[DESIGN] Demonstrar captura e envio da imagem no pitch** — conloq/mash
 - **[ARTIGO] Reescrever a lacuna científica e tecnológica do monitoramento da mosturação** — conloq/mash
 - **[DESIGN] Atualizar o pitch com demonstração do fluxo real** — conloq/mash
-- **[DESIGN] Revisar o fluxo de criação de lote no Figma** — conloq/mash
 - **[BACKEND] Implementar avaliação reproduzível da classificação do teste de iodo** — conloq/mash
 - **[BACKEND] Corrigir CRUD de receitas** — conloq/mash
 - **[BACKEND] Implementar CRUD de lotes** — conloq/mash
@@ -79,8 +77,10 @@ As tarefas abaixo foram planejadas (issue/PR de planejamento), mas não foram en
 - **[BACKEND] Complementar a rastreabilidade e o reprocessamento das análises de iodo** — conloq/mash
 - **[DESIGN] Adicionar legendas em português ao pitch** — conloq/mash
 - **[DESIGN] Adicionar trilha sonora ao pitch** — conloq/mash
-- **[ARTIGO] Definir metas mensuráveis e protocolo de registro da avaliação** — conloq/mash
 - **[BACKEND] Implementar upload da imagem do teste de iodo** — conloq/mash
+- **[ARTIGO] Ampliar e registrar o Estado da Arte sobre inspeção por imagem** — conloq/mash
+- **[DESIGN] Revisar o fluxo de criação de lote no Figma** — conloq/mash
+- **[ARTIGO] Definir metas mensuráveis e protocolo de registro da avaliação** — conloq/mash
 
 ## Problemas resolvidos
 
@@ -118,11 +118,6 @@ As tarefas abaixo foram planejadas (issue/PR de planejamento), mas não foram en
 
 - Issue (#14): [conloq/mash](https://github.com/conloq/mash/issues/14)
 - Issue (#21): [conloq/mash](https://github.com/conloq/mash/issues/21) — Data da evidência: 24/08/2026
-
-### [ARTIGO] Ampliar e registrar o Estado da Arte sobre inspeção por imagem
-
-- Issue (#13): [conloq/mash](https://github.com/conloq/mash/issues/13)
-- Issue (#19): [conloq/mash](https://github.com/conloq/mash/issues/19) — Data da evidência: 24/08/2026
 
 ### [BACKEND] Disponibilizar histórico de análises de iodo por lote
 
@@ -164,13 +159,6 @@ As tarefas abaixo foram planejadas (issue/PR de planejamento), mas não foram en
 - Issue (#28): [conloq/mash](https://github.com/conloq/mash/issues/28)
 - Issue (#34): [conloq/mash](https://github.com/conloq/mash/issues/34)
 - Issue (#9): [conloq/mash](https://github.com/conloq/mash/issues/9)
-
-### [DESIGN] Revisar o fluxo de criação de lote no Figma
-
-- Issue (#24): [conloq/mash](https://github.com/conloq/mash/issues/24) — Data da evidência: 24/08/2026
-- Issue (#30): [conloq/mash](https://github.com/conloq/mash/issues/30)
-- Issue (#32): [conloq/mash](https://github.com/conloq/mash/issues/32)
-- Issue (#7): [conloq/mash](https://github.com/conloq/mash/issues/7)
 
 ### [BACKEND] Implementar avaliação reproduzível da classificação do teste de iodo
 
@@ -264,11 +252,6 @@ As tarefas abaixo foram planejadas (issue/PR de planejamento), mas não foram en
 - Issue (#25): [conloq/mash](https://github.com/conloq/mash/issues/25)
 - Issue (#27): [conloq/mash](https://github.com/conloq/mash/issues/27) — Data da evidência: 24/08/2026
 
-### [ARTIGO] Definir metas mensuráveis e protocolo de registro da avaliação
-
-- Issue (#14): [conloq/mash](https://github.com/conloq/mash/issues/14) — Data da evidência: 24/08/2026
-- Issue (#21): [conloq/mash](https://github.com/conloq/mash/issues/21)
-
 ### [BACKEND] Implementar upload da imagem do teste de iodo
 
 - Issue (#33): [conloq/mash](https://github.com/conloq/mash/issues/33) — Data da evidência: 24/08/2026
@@ -278,6 +261,11 @@ As tarefas abaixo foram planejadas (issue/PR de planejamento), mas não foram en
 
 - Commit (6a2e3a24): conloq/landing-page-conloq — Data do commit: 25/08/2026 · Data do push: 24/08/2026
 
+### [ARTIGO] Ampliar e registrar o Estado da Arte sobre inspeção por imagem
+
+- Issue (#13): [conloq/mash](https://github.com/conloq/mash/issues/13)
+- Issue (#19): [conloq/mash](https://github.com/conloq/mash/issues/19) — Data da evidência: 25/08/2026
+
 ### Alteração publicada em .gitignore
 
 - Commit (d47b2d78): conloq/landing-page-conloq — Data do commit: 25/08/2026 · Data do push: 24/08/2026
@@ -285,3 +273,15 @@ As tarefas abaixo foram planejadas (issue/PR de planejamento), mas não foram en
 ### Alteração publicada em .maestri/roles/b97d679e-ba43-48cb-8268-60dc1e562198/AGENTS.md, .maestri/roles/b97d679e-ba43-48cb-8268-60dc1e562198/CLAUDE.md, .maestri/roles/b97d679e-ba43-48cb-8268-60dc1e562198/role.json e mais 22 arquivo(s)
 
 - Commit (6fdbfef4): conloq/landing-page-conloq — Data do commit: 25/08/2026 · Data do push: 24/08/2026
+
+### [DESIGN] Revisar o fluxo de criação de lote no Figma
+
+- Issue (#24): [conloq/mash](https://github.com/conloq/mash/issues/24) — Data da evidência: 25/08/2026
+- Issue (#30): [conloq/mash](https://github.com/conloq/mash/issues/30)
+- Issue (#32): [conloq/mash](https://github.com/conloq/mash/issues/32)
+- Issue (#7): [conloq/mash](https://github.com/conloq/mash/issues/7)
+
+### [ARTIGO] Definir metas mensuráveis e protocolo de registro da avaliação
+
+- Issue (#14): [conloq/mash](https://github.com/conloq/mash/issues/14) — Data da evidência: 25/08/2026
+- Issue (#21): [conloq/mash](https://github.com/conloq/mash/issues/21)
