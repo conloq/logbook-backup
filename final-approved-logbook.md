@@ -4,8 +4,8 @@ Projeto: Mash
 
 ## Visão geral
 
-- Atividades aprovadas: 35
-- Frentes ativas: Artigo, Backend, Design, não informado
+- Atividades aprovadas: 43
+- Frentes ativas: Artigo, Backend, Design, Frontend, não informado
 
 ## Entregas por frente
 
@@ -47,6 +47,12 @@ Projeto: Mash
   - Resumo: Altera o comportamento existente do sistema.
   - Evidências:
     - Commit (d47b2d78): conloq/landing-page-conloq — Data do commit: 25/08/2026 · Data do push: 24/08/2026
+- **dotenv** — infrastructure
+  - **Data da atividade:** 27/08/2026
+  - Resumo: Atualiza dependências do projeto.
+  - Evidências:
+    - Branch (main): conloq/Back-End — Data da evidência: 27/08/2026
+    - Commit (44ec341a): conloq/Back-End — Data do commit: 27/08/2026 · Data do push: 27/08/2026
 
 ## Tarefas planejadas sem execução GitHub comprovada
 
@@ -54,37 +60,45 @@ As tarefas abaixo foram planejadas (issue/PR de planejamento), mas não foram en
 
 - **[DESIGN] Melhorar e validar a landing page do Mash** — conloq/landing-page-conloq
 - **[GERAL] Configurar revisão obrigatória de Pull Requests na branch main** — conloq/mash
+- **[DESIGN] Adicionar ícones à seção de propósitos** — conloq/mash
+- **[DESIGN] Demonstrar captura e envio da imagem no pitch** — conloq/mash
+- **[DESIGN] Atualizar o pitch com demonstração do fluxo real** — conloq/mash
+- **[BACKEND] Corrigir CRUD de receitas** — conloq/mash
+- **[DESIGN] Atualizar o banner do Mash** — conloq/mash
+- **[DESIGN] Melhorar e validar a landing page do Mash** — conloq/landing-page-conloq
+- **[DESIGN] Adicionar legendas em português ao pitch** — conloq/mash
+- **[DESIGN] Adicionar trilha sonora ao pitch** — conloq/mash
+- **[DESIGN] Revisar o fluxo de criação de lote no Figma** — conloq/mash
+- **[FRONTEND] Criar tela de resultado da análise do teste de iodo** — conloq/mash
+- **[FRONTEND] Simplificar o fluxo de criação de lote** — conloq/mash
 - **[ARTIGO] Fundamentar Visão Computacional aplicada ao teste de iodo** — conloq/mash
 - **[ARTIGO] Documentar OpenCV, espaço de cor e parâmetros do método** — conloq/mash
 - **[ARTIGO] Documentar protocolo, coleta e resultados da validação experimental** — conloq/mash
+- **[ARTIGO] Ampliar e registrar o Estado da Arte sobre inspeção por imagem** — conloq/mash
 - **[BACKEND] Disponibilizar histórico de análises de iodo por lote** — conloq/mash
 - **[ARTIGO] Fundamentar o processamento digital de imagens usado na análise do teste de iodo** — conloq/mash
-- **[DESIGN] Adicionar ícones à seção de propósitos** — conloq/mash
-- **[DESIGN] Demonstrar captura e envio da imagem no pitch** — conloq/mash
+- **[FRONTEND] Criar upload de imagem do teste de iodo** — conloq/mash
+- **[FRONTEND] Implementar controles de temperatura acessíveis e integrados** — conloq/mash
+- **[FRONTEND] Integrar os fluxos do frontend aos contratos reais do backend** — conloq/mash
 - **[ARTIGO] Reescrever a lacuna científica e tecnológica do monitoramento da mosturação** — conloq/mash
-- **[DESIGN] Atualizar o pitch com demonstração do fluxo real** — conloq/mash
+- **[FRONTEND] Criar histórico de análises por lote** — conloq/mash
 - **[BACKEND] Implementar avaliação reproduzível da classificação do teste de iodo** — conloq/mash
-- **[BACKEND] Corrigir CRUD de receitas** — conloq/mash
 - **[BACKEND] Implementar CRUD de lotes** — conloq/mash
 - **[BACKEND] Implementar análise do teste de iodo com OpenCV** — conloq/mash
-- **[DESIGN] Atualizar o banner do Mash** — conloq/mash
 - **[BACKEND] Disponibilizar relatório consolidado do lote** — conloq/mash
-- **[DESIGN] Melhorar e validar a landing page do Mash** — conloq/landing-page-conloq
 - **[ARTIGO] Fundamentar automação industrial, padronização e controle de qualidade na mosturação** — conloq/mash
 - **[BACKEND] Migrar gradualmente para a API REST do Mash** — conloq/mash
 - **[ARTIGO] Criar fluxograma rastreável do método de análise do teste de iodo** — conloq/mash
 - **[BACKEND] Criar entidade e endpoint de análise do teste de iodo vinculados ao lote** — conloq/mash
 - **[BACKEND] Complementar a rastreabilidade e o reprocessamento das análises de iodo** — conloq/mash
-- **[DESIGN] Adicionar legendas em português ao pitch** — conloq/mash
-- **[DESIGN] Adicionar trilha sonora ao pitch** — conloq/mash
-- **[BACKEND] Implementar upload da imagem do teste de iodo** — conloq/mash
-- **[ARTIGO] Ampliar e registrar o Estado da Arte sobre inspeção por imagem** — conloq/mash
-- **[DESIGN] Revisar o fluxo de criação de lote no Figma** — conloq/mash
+- **[FRONTEND] Corrigir navegação, ações e estados de autorização do frontend** — conloq/mash
 - **[ARTIGO] Definir metas mensuráveis e protocolo de registro da avaliação** — conloq/mash
+- **[BACKEND] Implementar upload da imagem do teste de iodo** — conloq/mash
 
 ## Problemas resolvidos
 
 - **[BACKEND] Corrigir CRUD de receitas** — conloq/mash
+- **[FRONTEND] Corrigir navegação, ações e estados de autorização do frontend** — conloq/mash
 
 ## Evidências
 
@@ -104,34 +118,9 @@ As tarefas abaixo foram planejadas (issue/PR de planejamento), mas não foram en
 
 - Commit (c1c3b97b): conloq/landing-page-conloq — Data do commit: 20/08/2026 · Data do push: 20/08/2026
 
-### [ARTIGO] Fundamentar Visão Computacional aplicada ao teste de iodo
-
-- Issue (#16): [conloq/mash](https://github.com/conloq/mash/issues/16) — Data da evidência: 24/08/2026
-- Issue (#34): [conloq/mash](https://github.com/conloq/mash/issues/34)
-
-### [ARTIGO] Documentar OpenCV, espaço de cor e parâmetros do método
-
-- Issue (#17): [conloq/mash](https://github.com/conloq/mash/issues/17) — Data da evidência: 24/08/2026
-- Issue (#34): [conloq/mash](https://github.com/conloq/mash/issues/34)
-
-### [ARTIGO] Documentar protocolo, coleta e resultados da validação experimental
-
-- Issue (#14): [conloq/mash](https://github.com/conloq/mash/issues/14)
-- Issue (#21): [conloq/mash](https://github.com/conloq/mash/issues/21) — Data da evidência: 24/08/2026
-
-### [BACKEND] Disponibilizar histórico de análises de iodo por lote
-
-- Issue (#11): [conloq/mash](https://github.com/conloq/mash/issues/11)
-- Issue (#3): [conloq/mash](https://github.com/conloq/mash/issues/3) — Data da evidência: 24/08/2026
-
 ### Alteração publicada em controllers/authController.js, controllers/userController.js, middlewares/authMiddleware.js e mais 3 arquivo(s)
 
 - Commit (c5db3c76): conloq/Back-End — Data do commit: 24/08/2026 · Data do push: 23/08/2026
-
-### [ARTIGO] Fundamentar o processamento digital de imagens usado na análise do teste de iodo
-
-- Issue (#15): [conloq/mash](https://github.com/conloq/mash/issues/15) — Data da evidência: 24/08/2026
-- Issue (#20): [conloq/mash](https://github.com/conloq/mash/issues/20)
 
 ### [DESIGN] Adicionar ícones à seção de propósitos
 
@@ -146,10 +135,6 @@ As tarefas abaixo foram planejadas (issue/PR de planejamento), mas não foram en
 - Issue (#34): [conloq/mash](https://github.com/conloq/mash/issues/34)
 - Issue (#9): [conloq/mash](https://github.com/conloq/mash/issues/9)
 
-### [ARTIGO] Reescrever a lacuna científica e tecnológica do monitoramento da mosturação
-
-- Issue (#13): [conloq/mash](https://github.com/conloq/mash/issues/13) — Data da evidência: 24/08/2026
-
 ### [DESIGN] Atualizar o pitch com demonstração do fluxo real
 
 - Issue (#10): [conloq/mash](https://github.com/conloq/mash/issues/10)
@@ -160,28 +145,11 @@ As tarefas abaixo foram planejadas (issue/PR de planejamento), mas não foram en
 - Issue (#34): [conloq/mash](https://github.com/conloq/mash/issues/34)
 - Issue (#9): [conloq/mash](https://github.com/conloq/mash/issues/9)
 
-### [BACKEND] Implementar avaliação reproduzível da classificação do teste de iodo
-
-- Issue (#5): [conloq/mash](https://github.com/conloq/mash/issues/5) — Data da evidência: 24/08/2026
-
 ### [BACKEND] Corrigir CRUD de receitas
 
 - Issue (#12): [conloq/mash](https://github.com/conloq/mash/issues/12)
 - Issue (#32): [conloq/mash](https://github.com/conloq/mash/issues/32) — Data da evidência: 24/08/2026
 - Issue (#7): [conloq/mash](https://github.com/conloq/mash/issues/7)
-
-### [BACKEND] Implementar CRUD de lotes
-
-- Issue (#12): [conloq/mash](https://github.com/conloq/mash/issues/12)
-- Issue (#31): [conloq/mash](https://github.com/conloq/mash/issues/31) — Data da evidência: 24/08/2026
-- Issue (#7): [conloq/mash](https://github.com/conloq/mash/issues/7)
-
-### [BACKEND] Implementar análise do teste de iodo com OpenCV
-
-- Issue (#10): [conloq/mash](https://github.com/conloq/mash/issues/10)
-- Issue (#28): [conloq/mash](https://github.com/conloq/mash/issues/28)
-- Issue (#33): [conloq/mash](https://github.com/conloq/mash/issues/33)
-- Issue (#34): [conloq/mash](https://github.com/conloq/mash/issues/34) — Data da evidência: 24/08/2026
 
 ### [DESIGN] Atualizar o banner do Mash
 
@@ -192,11 +160,6 @@ As tarefas abaixo foram planejadas (issue/PR de planejamento), mas não foram en
 - Issue (#29): [conloq/mash](https://github.com/conloq/mash/issues/29) — Data da evidência: 24/08/2026
 - Issue (#30): [conloq/mash](https://github.com/conloq/mash/issues/30)
 - Issue (#34): [conloq/mash](https://github.com/conloq/mash/issues/34)
-
-### [BACKEND] Disponibilizar relatório consolidado do lote
-
-- Issue (#12): [conloq/mash](https://github.com/conloq/mash/issues/12)
-- Issue (#4): [conloq/mash](https://github.com/conloq/mash/issues/4) — Data da evidência: 24/08/2026
 
 ### [DESIGN] Melhorar e validar a landing page do Mash
 
@@ -210,38 +173,6 @@ As tarefas abaixo foram planejadas (issue/PR de planejamento), mas não foram en
 
 - Commit (a827e2c5): conloq/Back-End — Data do commit: 24/08/2026 · Data do push: 23/08/2026
 
-### [ARTIGO] Fundamentar automação industrial, padronização e controle de qualidade na mosturação
-
-- Issue (#13): [conloq/mash](https://github.com/conloq/mash/issues/13)
-- Issue (#18): [conloq/mash](https://github.com/conloq/mash/issues/18) — Data da evidência: 24/08/2026
-
-### [BACKEND] Migrar gradualmente para a API REST do Mash
-
-- Issue (#30): [conloq/mash](https://github.com/conloq/mash/issues/30) — Data da evidência: 24/08/2026
-
-### [ARTIGO] Criar fluxograma rastreável do método de análise do teste de iodo
-
-- Issue (#15): [conloq/mash](https://github.com/conloq/mash/issues/15)
-- Issue (#16): [conloq/mash](https://github.com/conloq/mash/issues/16)
-- Issue (#17): [conloq/mash](https://github.com/conloq/mash/issues/17)
-- Issue (#20): [conloq/mash](https://github.com/conloq/mash/issues/20) — Data da evidência: 24/08/2026
-- Issue (#30): [conloq/mash](https://github.com/conloq/mash/issues/30)
-- Issue (#34): [conloq/mash](https://github.com/conloq/mash/issues/34)
-
-### [BACKEND] Criar entidade e endpoint de análise do teste de iodo vinculados ao lote
-
-- Issue (#1): [conloq/mash](https://github.com/conloq/mash/issues/1) — Data da evidência: 24/08/2026
-- Issue (#10): [conloq/mash](https://github.com/conloq/mash/issues/10)
-- Issue (#11): [conloq/mash](https://github.com/conloq/mash/issues/11)
-
-### [BACKEND] Complementar a rastreabilidade e o reprocessamento das análises de iodo
-
-- Issue (#1): [conloq/mash](https://github.com/conloq/mash/issues/1)
-- Issue (#10): [conloq/mash](https://github.com/conloq/mash/issues/10)
-- Issue (#11): [conloq/mash](https://github.com/conloq/mash/issues/11)
-- Issue (#2): [conloq/mash](https://github.com/conloq/mash/issues/2) — Data da evidência: 24/08/2026
-- Issue (#3): [conloq/mash](https://github.com/conloq/mash/issues/3)
-
 ### [DESIGN] Adicionar legendas em português ao pitch
 
 - Issue (#25): [conloq/mash](https://github.com/conloq/mash/issues/25)
@@ -252,19 +183,9 @@ As tarefas abaixo foram planejadas (issue/PR de planejamento), mas não foram en
 - Issue (#25): [conloq/mash](https://github.com/conloq/mash/issues/25)
 - Issue (#27): [conloq/mash](https://github.com/conloq/mash/issues/27) — Data da evidência: 24/08/2026
 
-### [BACKEND] Implementar upload da imagem do teste de iodo
-
-- Issue (#33): [conloq/mash](https://github.com/conloq/mash/issues/33) — Data da evidência: 24/08/2026
-- Issue (#9): [conloq/mash](https://github.com/conloq/mash/issues/9)
-
 ### Alteração publicada em .gitignore
 
 - Commit (6a2e3a24): conloq/landing-page-conloq — Data do commit: 25/08/2026 · Data do push: 24/08/2026
-
-### [ARTIGO] Ampliar e registrar o Estado da Arte sobre inspeção por imagem
-
-- Issue (#13): [conloq/mash](https://github.com/conloq/mash/issues/13)
-- Issue (#19): [conloq/mash](https://github.com/conloq/mash/issues/19) — Data da evidência: 25/08/2026
 
 ### Alteração publicada em .gitignore
 
@@ -281,7 +202,199 @@ As tarefas abaixo foram planejadas (issue/PR de planejamento), mas não foram en
 - Issue (#32): [conloq/mash](https://github.com/conloq/mash/issues/32)
 - Issue (#7): [conloq/mash](https://github.com/conloq/mash/issues/7)
 
+### [FRONTEND] Criar tela de resultado da análise do teste de iodo
+
+- Issue (#1): [conloq/mash](https://github.com/conloq/mash/issues/1)
+- Issue (#10): [conloq/mash](https://github.com/conloq/mash/issues/10) — Data da evidência: 27/08/2026
+- Issue (#33): [conloq/mash](https://github.com/conloq/mash/issues/33)
+- Issue (#34): [conloq/mash](https://github.com/conloq/mash/issues/34)
+- Issue (#9): [conloq/mash](https://github.com/conloq/mash/issues/9)
+
+### [FRONTEND] Simplificar o fluxo de criação de lote
+
+- Issue (#31): [conloq/mash](https://github.com/conloq/mash/issues/31)
+- Issue (#32): [conloq/mash](https://github.com/conloq/mash/issues/32)
+- Issue (#7): [conloq/mash](https://github.com/conloq/mash/issues/7) — Data da evidência: 27/08/2026
+
+### [ARTIGO] Fundamentar Visão Computacional aplicada ao teste de iodo
+
+- Issue (#16): [conloq/mash](https://github.com/conloq/mash/issues/16) — Data da evidência: 27/08/2026
+- Issue (#34): [conloq/mash](https://github.com/conloq/mash/issues/34)
+
+### [ARTIGO] Documentar OpenCV, espaço de cor e parâmetros do método
+
+- Issue (#17): [conloq/mash](https://github.com/conloq/mash/issues/17) — Data da evidência: 27/08/2026
+- Issue (#34): [conloq/mash](https://github.com/conloq/mash/issues/34)
+
+### [ARTIGO] Documentar protocolo, coleta e resultados da validação experimental
+
+- Issue (#14): [conloq/mash](https://github.com/conloq/mash/issues/14)
+- Issue (#21): [conloq/mash](https://github.com/conloq/mash/issues/21) — Data da evidência: 27/08/2026
+- Issue (#5): [conloq/mash](https://github.com/conloq/mash/issues/5)
+
+### [ARTIGO] Ampliar e registrar o Estado da Arte sobre inspeção por imagem
+
+- Issue (#13): [conloq/mash](https://github.com/conloq/mash/issues/13)
+- Issue (#19): [conloq/mash](https://github.com/conloq/mash/issues/19) — Data da evidência: 27/08/2026
+
+### [BACKEND] Disponibilizar histórico de análises de iodo por lote
+
+- Issue (#1): [conloq/mash](https://github.com/conloq/mash/issues/1)
+- Issue (#11): [conloq/mash](https://github.com/conloq/mash/issues/11)
+- Issue (#2): [conloq/mash](https://github.com/conloq/mash/issues/2)
+- Issue (#3): [conloq/mash](https://github.com/conloq/mash/issues/3) — Data da evidência: 27/08/2026
+- Issue (#30): [conloq/mash](https://github.com/conloq/mash/issues/30)
+- Issue (#31): [conloq/mash](https://github.com/conloq/mash/issues/31)
+- Issue (#32): [conloq/mash](https://github.com/conloq/mash/issues/32)
+- Issue (#33): [conloq/mash](https://github.com/conloq/mash/issues/33)
+- Issue (#34): [conloq/mash](https://github.com/conloq/mash/issues/34)
+
+### [ARTIGO] Fundamentar o processamento digital de imagens usado na análise do teste de iodo
+
+- Issue (#15): [conloq/mash](https://github.com/conloq/mash/issues/15) — Data da evidência: 27/08/2026
+- Issue (#20): [conloq/mash](https://github.com/conloq/mash/issues/20)
+
+### [FRONTEND] Criar upload de imagem do teste de iodo
+
+- Issue (#33): [conloq/mash](https://github.com/conloq/mash/issues/33)
+- Issue (#9): [conloq/mash](https://github.com/conloq/mash/issues/9) — Data da evidência: 27/08/2026
+
+### [FRONTEND] Implementar controles de temperatura acessíveis e integrados
+
+- Issue (#32): [conloq/mash](https://github.com/conloq/mash/issues/32)
+- Issue (#8): [conloq/mash](https://github.com/conloq/mash/issues/8) — Data da evidência: 27/08/2026
+
+### dotenv
+
+- Branch (main): conloq/Back-End — Data da evidência: 27/08/2026
+- Commit (44ec341a): conloq/Back-End — Data do commit: 27/08/2026 · Data do push: 27/08/2026
+
+### [FRONTEND] Integrar os fluxos do frontend aos contratos reais do backend
+
+- Issue (#1): [conloq/mash](https://github.com/conloq/mash/issues/1)
+- Issue (#12): [conloq/mash](https://github.com/conloq/mash/issues/12) — Data da evidência: 27/08/2026
+- Issue (#13): [conloq/mash](https://github.com/conloq/mash/issues/13)
+- Issue (#2): [conloq/mash](https://github.com/conloq/mash/issues/2)
+- Issue (#21): [conloq/mash](https://github.com/conloq/mash/issues/21)
+- Issue (#3): [conloq/mash](https://github.com/conloq/mash/issues/3)
+- Issue (#30): [conloq/mash](https://github.com/conloq/mash/issues/30)
+- Issue (#34): [conloq/mash](https://github.com/conloq/mash/issues/34)
+
+### [ARTIGO] Reescrever a lacuna científica e tecnológica do monitoramento da mosturação
+
+- Issue (#13): [conloq/mash](https://github.com/conloq/mash/issues/13) — Data da evidência: 27/08/2026
+
+### [FRONTEND] Criar histórico de análises por lote
+
+- Issue (#10): [conloq/mash](https://github.com/conloq/mash/issues/10)
+- Issue (#11): [conloq/mash](https://github.com/conloq/mash/issues/11) — Data da evidência: 27/08/2026
+- Issue (#3): [conloq/mash](https://github.com/conloq/mash/issues/3)
+
+### [BACKEND] Implementar avaliação reproduzível da classificação do teste de iodo
+
+- Issue (#1): [conloq/mash](https://github.com/conloq/mash/issues/1)
+- Issue (#14): [conloq/mash](https://github.com/conloq/mash/issues/14)
+- Issue (#2): [conloq/mash](https://github.com/conloq/mash/issues/2)
+- Issue (#21): [conloq/mash](https://github.com/conloq/mash/issues/21)
+- Issue (#3): [conloq/mash](https://github.com/conloq/mash/issues/3)
+- Issue (#30): [conloq/mash](https://github.com/conloq/mash/issues/30)
+- Issue (#31): [conloq/mash](https://github.com/conloq/mash/issues/31)
+- Issue (#32): [conloq/mash](https://github.com/conloq/mash/issues/32)
+- Issue (#33): [conloq/mash](https://github.com/conloq/mash/issues/33)
+- Issue (#34): [conloq/mash](https://github.com/conloq/mash/issues/34)
+- … e mais 2 evidências
+
+### [BACKEND] Implementar CRUD de lotes
+
+- Issue (#1): [conloq/mash](https://github.com/conloq/mash/issues/1)
+- Issue (#2): [conloq/mash](https://github.com/conloq/mash/issues/2)
+- Issue (#24): [conloq/mash](https://github.com/conloq/mash/issues/24)
+- Issue (#3): [conloq/mash](https://github.com/conloq/mash/issues/3)
+- Issue (#30): [conloq/mash](https://github.com/conloq/mash/issues/30)
+- Issue (#31): [conloq/mash](https://github.com/conloq/mash/issues/31) — Data da evidência: 27/08/2026
+- Issue (#4): [conloq/mash](https://github.com/conloq/mash/issues/4)
+- Issue (#7): [conloq/mash](https://github.com/conloq/mash/issues/7)
+
+### [BACKEND] Implementar análise do teste de iodo com OpenCV
+
+- Issue (#10): [conloq/mash](https://github.com/conloq/mash/issues/10)
+- Issue (#2): [conloq/mash](https://github.com/conloq/mash/issues/2)
+- Issue (#28): [conloq/mash](https://github.com/conloq/mash/issues/28)
+- Issue (#30): [conloq/mash](https://github.com/conloq/mash/issues/30)
+- Issue (#31): [conloq/mash](https://github.com/conloq/mash/issues/31)
+- Issue (#32): [conloq/mash](https://github.com/conloq/mash/issues/32)
+- Issue (#33): [conloq/mash](https://github.com/conloq/mash/issues/33)
+- Issue (#34): [conloq/mash](https://github.com/conloq/mash/issues/34) — Data da evidência: 27/08/2026
+
+### [BACKEND] Disponibilizar relatório consolidado do lote
+
+- Issue (#1): [conloq/mash](https://github.com/conloq/mash/issues/1)
+- Issue (#12): [conloq/mash](https://github.com/conloq/mash/issues/12)
+- Issue (#2): [conloq/mash](https://github.com/conloq/mash/issues/2)
+- Issue (#3): [conloq/mash](https://github.com/conloq/mash/issues/3)
+- Issue (#30): [conloq/mash](https://github.com/conloq/mash/issues/30)
+- Issue (#31): [conloq/mash](https://github.com/conloq/mash/issues/31)
+- Issue (#32): [conloq/mash](https://github.com/conloq/mash/issues/32)
+- Issue (#33): [conloq/mash](https://github.com/conloq/mash/issues/33)
+- Issue (#34): [conloq/mash](https://github.com/conloq/mash/issues/34)
+- Issue (#4): [conloq/mash](https://github.com/conloq/mash/issues/4) — Data da evidência: 27/08/2026
+
+### [ARTIGO] Fundamentar automação industrial, padronização e controle de qualidade na mosturação
+
+- Issue (#13): [conloq/mash](https://github.com/conloq/mash/issues/13)
+- Issue (#18): [conloq/mash](https://github.com/conloq/mash/issues/18) — Data da evidência: 27/08/2026
+
+### [BACKEND] Migrar gradualmente para a API REST do Mash
+
+- Issue (#30): [conloq/mash](https://github.com/conloq/mash/issues/30) — Data da evidência: 27/08/2026
+
+### [ARTIGO] Criar fluxograma rastreável do método de análise do teste de iodo
+
+- Issue (#15): [conloq/mash](https://github.com/conloq/mash/issues/15)
+- Issue (#16): [conloq/mash](https://github.com/conloq/mash/issues/16)
+- Issue (#17): [conloq/mash](https://github.com/conloq/mash/issues/17)
+- Issue (#20): [conloq/mash](https://github.com/conloq/mash/issues/20) — Data da evidência: 27/08/2026
+- Issue (#30): [conloq/mash](https://github.com/conloq/mash/issues/30)
+- Issue (#34): [conloq/mash](https://github.com/conloq/mash/issues/34)
+
+### [BACKEND] Criar entidade e endpoint de análise do teste de iodo vinculados ao lote
+
+- Issue (#1): [conloq/mash](https://github.com/conloq/mash/issues/1) — Data da evidência: 27/08/2026
+- Issue (#10): [conloq/mash](https://github.com/conloq/mash/issues/10)
+- Issue (#11): [conloq/mash](https://github.com/conloq/mash/issues/11)
+- Issue (#30): [conloq/mash](https://github.com/conloq/mash/issues/30)
+- Issue (#31): [conloq/mash](https://github.com/conloq/mash/issues/31)
+- Issue (#32): [conloq/mash](https://github.com/conloq/mash/issues/32)
+- Issue (#33): [conloq/mash](https://github.com/conloq/mash/issues/33)
+- Issue (#34): [conloq/mash](https://github.com/conloq/mash/issues/34)
+
+### [BACKEND] Complementar a rastreabilidade e o reprocessamento das análises de iodo
+
+- Issue (#1): [conloq/mash](https://github.com/conloq/mash/issues/1)
+- Issue (#11): [conloq/mash](https://github.com/conloq/mash/issues/11)
+- Issue (#2): [conloq/mash](https://github.com/conloq/mash/issues/2) — Data da evidência: 27/08/2026
+- Issue (#3): [conloq/mash](https://github.com/conloq/mash/issues/3)
+- Issue (#30): [conloq/mash](https://github.com/conloq/mash/issues/30)
+- Issue (#31): [conloq/mash](https://github.com/conloq/mash/issues/31)
+- Issue (#32): [conloq/mash](https://github.com/conloq/mash/issues/32)
+- Issue (#33): [conloq/mash](https://github.com/conloq/mash/issues/33)
+- Issue (#34): [conloq/mash](https://github.com/conloq/mash/issues/34)
+
+### [FRONTEND] Corrigir navegação, ações e estados de autorização do frontend
+
+- Issue (#6): [conloq/mash](https://github.com/conloq/mash/issues/6) — Data da evidência: 27/08/2026
+
 ### [ARTIGO] Definir metas mensuráveis e protocolo de registro da avaliação
 
-- Issue (#14): [conloq/mash](https://github.com/conloq/mash/issues/14) — Data da evidência: 25/08/2026
+- Issue (#14): [conloq/mash](https://github.com/conloq/mash/issues/14) — Data da evidência: 27/08/2026
 - Issue (#21): [conloq/mash](https://github.com/conloq/mash/issues/21)
+
+### [BACKEND] Implementar upload da imagem do teste de iodo
+
+- Issue (#28): [conloq/mash](https://github.com/conloq/mash/issues/28)
+- Issue (#30): [conloq/mash](https://github.com/conloq/mash/issues/30)
+- Issue (#31): [conloq/mash](https://github.com/conloq/mash/issues/31)
+- Issue (#32): [conloq/mash](https://github.com/conloq/mash/issues/32)
+- Issue (#33): [conloq/mash](https://github.com/conloq/mash/issues/33) — Data da evidência: 27/08/2026
+- Issue (#34): [conloq/mash](https://github.com/conloq/mash/issues/34)
+- Issue (#9): [conloq/mash](https://github.com/conloq/mash/issues/9)
