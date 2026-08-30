@@ -1,31 +1,17 @@
-# Resumo Semanal — 27/08/2026 a 03/09/2026
+# Resumo Semanal — 28/08/2026 a 04/09/2026
 
 Projeto: Mash
 
 ## Resumo do período
 
-- **Execuções confirmadas:** 2
-- **Evidências de commit:** 2
+- **Execuções confirmadas:** 1
+- **Evidências de commit:** 1
 - **Pull requests associadas:** 0
 - **Tarefas planejadas sem execução:** 0
 - **Frentes envolvidas:** Backend
 - **Último evento recebido:** 28/08/2026 21:25
 
 ## Entregas por frente
-
-### 27/08/2026 · Backend
-
-#### Atualização de autenticação, usuários, controladores, serviços e middleware no backend e configuração de ambiente e dependências.
-
-- **Responsável:** joaoalexandre77
-- **Mensagem original:** dotenv
-- **Data da atividade:** 27/08/2026
-- **Tipo:** configuration
-- **O que foi alterado:** Atualiza autenticação, usuários, controladores, serviços e middleware no backend e configuração de ambiente e dependências.
-- **Base da síntese:** caminhos, status e estatísticas dos arquivos alterados.
-- **Escopo observado:** 9 arquivo(s), +32/-22 linhas
-- **Evidências:**
-  - Commit (44ec341a): conloq/Back-End — Data do commit: 27/08/2026 · Data do push: 27/08/2026
 
 ### 28/08/2026 · Backend
 
