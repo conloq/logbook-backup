@@ -9,7 +9,7 @@ Projeto: Mash
 - **Pull requests associadas:** 0
 - **Tarefas planejadas sem execução:** 0
 - **Frentes envolvidas:** Backend
-- **Último evento recebido:** 28/08/2026 21:25
+- **Último evento recebido:** 31/08/2026 01:04
 
 ## Entregas por frente
 
@@ -22,7 +22,7 @@ Projeto: Mash
 - **Data da atividade:** 28/08/2026
 - **Tipo:** feature
 - **O que foi alterado:** Atualiza autenticação, usuários, controladores, rotas e serviços no backend.
-- **Base da síntese:** caminhos, status e estatísticas dos arquivos alterados.
+- **Base da síntese:** caminhos, status e estatísticas dos arquivos do commit; patch não disponível.
 - **Escopo observado:** 5 arquivo(s), +46/-15 linhas
 - **Evidências:**
   - Branch (main): conloq/Back-End — Data da evidência: 28/08/2026
@@ -31,6 +31,10 @@ Projeto: Mash
 ## Tarefas planejadas sem execução GitHub comprovada
 
 Nenhuma tarefa planejada sem execução registrada no período.
+
+## Testes e replays locais
+
+Nenhum teste ou replay local registrado no período.
 
 ## Problemas resolvidos
 
