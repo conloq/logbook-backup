@@ -4,12 +4,12 @@ Projeto: Mash
 
 ## Resumo do período
 
-- **Execuções confirmadas:** 1
-- **Evidências de commit:** 1
+- **Execuções confirmadas:** 2
+- **Evidências de commit:** 2
 - **Pull requests associadas:** 0
 - **Tarefas planejadas sem execução:** 0
-- **Frentes envolvidas:** Backend
-- **Último evento recebido:** 31/08/2026 01:04
+- **Frentes envolvidas:** Backend, Frente não identificada
+- **Último evento recebido:** 02/09/2026 20:49
 
 ## Entregas por frente
 
@@ -27,6 +27,22 @@ Projeto: Mash
 - **Evidências:**
   - Branch (main): conloq/Back-End — Data da evidência: 28/08/2026
   - Commit (56179081): conloq/Back-End — Data do commit: 28/08/2026 · Data do push: 28/08/2026
+
+### 02/09/2026 · Frente não identificada
+
+#### Reorganização da estrutura do projeto e atualização de documentação.
+
+- **Responsável:** haimonvieira
+- **Mensagem original:** refactor: Melhorada a landing page, animacoes e icones
+Adicionado icones em propositos
+- **Data da atividade:** 02/09/2026
+- **Tipo:** refactor
+- **O que foi alterado:** Reorganiza a estrutura do projeto e atualiza documentação.
+- **Base da síntese:** caminhos, status e estatísticas dos arquivos do commit; patch não disponível.
+- **Escopo observado:** 1 arquivo(s), +0/-1 linhas
+- **Evidências:**
+  - Branch (main): conloq/landing-page-conloq — Data da evidência: 02/09/2026
+  - Commit (02fcec67): conloq/landing-page-conloq — Data do commit: 02/09/2026 · Data do push: 02/09/2026
 
 ## Tarefas planejadas sem execução GitHub comprovada
 
