@@ -4,8 +4,8 @@ Projeto: Mash
 
 ## Resumo do período
 
-- **Execuções confirmadas:** 3
-- **Evidências de commit:** 3
+- **Execuções confirmadas:** 4
+- **Evidências de commit:** 4
 - **Pull requests associadas:** 0
 - **Tarefas planejadas sem execução:** 0
 - **Frentes envolvidas:** Backend, Frente não identificada
@@ -45,6 +45,19 @@ Adicionado icones em propositos
   - Commit (02fcec67): conloq/landing-page-conloq — Data do commit: 02/09/2026 · Data do push: 02/09/2026
 
 ### 03/09/2026 · Backend
+
+#### Atualização de usuários, controladores, rotas e serviços no backend.
+
+- **Responsável:** joaoalexandre77
+- **Mensagem original:** /user/upload completo
+- **Data da atividade:** 03/09/2026
+- **Tipo:** feature
+- **O que foi alterado:** Atualiza usuários, controladores, rotas e serviços no backend.
+- **Base da síntese:** caminhos, status e estatísticas dos arquivos do commit; patch não disponível.
+- **Escopo observado:** 3 arquivo(s), +5/-5 linhas
+- **Evidências:**
+  - Branch (main): conloq/Back-End — Data da evidência: 03/09/2026
+  - Commit (6443eadc): conloq/Back-End — Data do commit: 03/09/2026 · Data do push: 03/09/2026
 
 #### Atualização de usuários, controladores, rotas, serviços e middleware no backend e configuração de ambiente e dependências.
 
