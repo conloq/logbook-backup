@@ -1,76 +1,32 @@
-# Resumo Semanal — 28/08/2026 a 04/09/2026
+# Resumo Semanal — 04/09/2026 a 11/09/2026
 
 Projeto: Mash
 
 ## Resumo do período
 
-- **Execuções confirmadas:** 4
-- **Evidências de commit:** 4
+- **Execuções confirmadas:** 1
+- **Evidências de commit:** 1
 - **Pull requests associadas:** 0
 - **Tarefas planejadas sem execução:** 0
-- **Frentes envolvidas:** Backend, Frente não identificada
-- **Último evento recebido:** 10/09/2026 22:19
+- **Frentes envolvidas:** Backend
+- **Último evento recebido:** 11/09/2026 11:32
 
 ## Entregas por frente
 
-### 28/08/2026 · Backend
+### 10/09/2026 · Backend
 
-#### Atualização de autenticação, usuários, controladores, rotas e serviços no backend.
+#### Atualização de persistência, controladores, rotas, serviços e modelos no backend e configuração de ambiente.
 
 - **Responsável:** joaoalexandre77
-- **Mensagem original:** updateUser complete
-- **Data da atividade:** 28/08/2026
+- **Mensagem original:** recipe show and create created successfully
+- **Data da atividade:** 10/09/2026
 - **Tipo:** feature
-- **O que foi alterado:** Atualiza autenticação, usuários, controladores, rotas e serviços no backend.
+- **O que foi alterado:** Adiciona ou atualiza persistência, controladores, rotas, serviços e modelos no backend e configuração de ambiente.
 - **Base da síntese:** caminhos, status e estatísticas dos arquivos do commit; patch não disponível.
-- **Escopo observado:** 5 arquivo(s), +46/-15 linhas
+- **Escopo observado:** 6 arquivo(s), +96/-0 linhas
 - **Evidências:**
-  - Branch (main): conloq/Back-End — Data da evidência: 28/08/2026
-  - Commit (56179081): conloq/Back-End — Data do commit: 28/08/2026 · Data do push: 28/08/2026
-
-### 02/09/2026 · Frente não identificada
-
-#### Reorganização da estrutura do projeto e atualização de documentação.
-
-- **Responsável:** haimonvieira
-- **Mensagem original:** refactor: Melhorada a landing page, animacoes e icones
-Adicionado icones em propositos
-- **Data da atividade:** 02/09/2026
-- **Tipo:** refactor
-- **O que foi alterado:** Reorganiza a estrutura do projeto e atualiza documentação.
-- **Base da síntese:** caminhos, status e estatísticas dos arquivos do commit; patch não disponível.
-- **Escopo observado:** 1 arquivo(s), +0/-1 linhas
-- **Evidências:**
-  - Branch (main): conloq/landing-page-conloq — Data da evidência: 02/09/2026
-  - Commit (02fcec67): conloq/landing-page-conloq — Data do commit: 02/09/2026 · Data do push: 02/09/2026
-
-### 03/09/2026 · Backend
-
-#### Atualização de usuários, controladores, rotas e serviços no backend.
-
-- **Responsável:** joaoalexandre77
-- **Mensagem original:** /user/upload completo
-- **Data da atividade:** 03/09/2026
-- **Tipo:** feature
-- **O que foi alterado:** Atualiza usuários, controladores, rotas e serviços no backend.
-- **Base da síntese:** caminhos, status e estatísticas dos arquivos do commit; patch não disponível.
-- **Escopo observado:** 3 arquivo(s), +5/-5 linhas
-- **Evidências:**
-  - Branch (main): conloq/Back-End — Data da evidência: 03/09/2026
-  - Commit (6443eadc): conloq/Back-End — Data do commit: 03/09/2026 · Data do push: 03/09/2026
-
-#### Atualização de usuários, controladores, rotas, serviços e middleware no backend e configuração de ambiente e dependências.
-
-- **Responsável:** joaoalexandre77
-- **Mensagem original:** upload/foto nao testada
-- **Data da atividade:** 03/09/2026
-- **Tipo:** testing
-- **O que foi alterado:** Atualiza usuários, controladores, rotas, serviços e middleware no backend e configuração de ambiente e dependências.
-- **Base da síntese:** caminhos, status e estatísticas dos arquivos do commit; patch não disponível.
-- **Escopo observado:** 8 arquivo(s), +243/-5 linhas
-- **Evidências:**
-  - Branch (main): conloq/Back-End — Data da evidência: 03/09/2026
-  - Commit (2be12a36): conloq/Back-End — Data do commit: 03/09/2026 · Data do push: 03/09/2026
+  - Branch (main): conloq/Back-End — Data da evidência: 10/09/2026
+  - Commit (5f515962): conloq/Back-End — Data do commit: 10/09/2026 · Data do push: 10/09/2026
 
 ## Tarefas planejadas sem execução GitHub comprovada
 
