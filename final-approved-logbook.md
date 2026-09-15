@@ -4,12 +4,12 @@ Projeto: Mash
 
 ## Resumo do período
 
-- **Execuções confirmadas:** 2
-- **Evidências de commit:** 2
+- **Execuções confirmadas:** 3
+- **Evidências de commit:** 3
 - **Pull requests associadas:** 0
 - **Tarefas planejadas sem execução:** 0
-- **Frentes envolvidas:** Backend
-- **Último evento recebido:** 12/09/2026 11:58
+- **Frentes envolvidas:** Backend, Frente não identificada
+- **Último evento recebido:** 14/09/2026 20:49
 
 ## Entregas por frente
 
@@ -40,6 +40,21 @@ Projeto: Mash
 - **Evidências:**
   - Branch (main): conloq/Back-End — Data da evidência: 12/09/2026
   - Commit (211ebdee): conloq/Back-End — Data do commit: 12/09/2026 · Data do push: 12/09/2026
+
+### 14/09/2026 · Frente não identificada
+
+#### Atualização de documentação.
+
+- **Responsável:** haimonvieira
+- **Mensagem original:** Add files via upload
+- **Data da atividade:** 14/09/2026
+- **Tipo:** documentation
+- **O que foi alterado:** Adiciona ou atualiza documentação.
+- **Base da síntese:** caminhos, status e estatísticas dos arquivos do commit; patch não disponível.
+- **Escopo observado:** 1 arquivo(s), +262/-271 linhas
+- **Evidências:**
+  - Branch (main): conloq/mash — Data da evidência: 14/09/2026
+  - Commit (5ad9f27a): conloq/mash — Data do commit: 14/09/2026 · Data do push: 14/09/2026
 
 ## Tarefas planejadas sem execução GitHub comprovada
 
