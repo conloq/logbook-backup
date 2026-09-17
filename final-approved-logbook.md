@@ -4,12 +4,12 @@ Projeto: Mash
 
 ## Resumo do período
 
-- **Execuções confirmadas:** 3
-- **Evidências de commit:** 3
+- **Execuções confirmadas:** 4
+- **Evidências de commit:** 4
 - **Pull requests associadas:** 0
 - **Tarefas planejadas sem execução:** 0
 - **Frentes envolvidas:** Backend, Frente não identificada
-- **Último evento recebido:** 15/09/2026 22:14
+- **Último evento recebido:** 16/09/2026 15:51
 
 ## Entregas por frente
 
@@ -55,6 +55,21 @@ Projeto: Mash
 - **Evidências:**
   - Branch (main): conloq/mash — Data da evidência: 14/09/2026
   - Commit (5ad9f27a): conloq/mash — Data do commit: 14/09/2026 · Data do push: 14/09/2026
+
+### 15/09/2026 · Backend
+
+#### Atualização de controladores, rotas e serviços no backend e configuração de ambiente e dependências.
+
+- **Responsável:** joaoalexandre77
+- **Mensagem original:** feat: Criando o swagger
+- **Data da atividade:** 15/09/2026
+- **Tipo:** feature
+- **O que foi alterado:** Adiciona ou atualiza controladores, rotas e serviços no backend e configuração de ambiente e dependências.
+- **Base da síntese:** caminhos, status e estatísticas dos arquivos do commit; patch não disponível.
+- **Escopo observado:** 7 arquivo(s), +192/-8 linhas
+- **Evidências:**
+  - Branch (main): conloq/Back-End — Data da evidência: 15/09/2026
+  - Commit (c38174d8): conloq/Back-End — Data do commit: 15/09/2026 · Data do push: 15/09/2026
 
 ## Tarefas planejadas sem execução GitHub comprovada
 
