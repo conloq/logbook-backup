@@ -4,12 +4,12 @@ Projeto: Mash
 
 ## Resumo do período
 
-- **Execuções confirmadas:** 4
-- **Evidências de commit:** 4
+- **Execuções confirmadas:** 6
+- **Evidências de commit:** 6
 - **Pull requests associadas:** 0
 - **Tarefas planejadas sem execução:** 0
 - **Frentes envolvidas:** Backend, Frente não identificada
-- **Último evento recebido:** 17/09/2026 18:26
+- **Último evento recebido:** 18/09/2026 23:59
 
 ## Entregas por frente
 
@@ -71,6 +71,34 @@ Projeto: Mash
   - Branch (main): conloq/Back-End — Data da evidência: 15/09/2026
   - Commit (c38174d8): conloq/Back-End — Data do commit: 15/09/2026 · Data do push: 15/09/2026
 
+### 18/09/2026 · Backend
+
+#### Atualização de usuários, controladores, rotas e serviços no backend.
+
+- **Responsável:** joaoalexandre77
+- **Mensagem original:** feat: Crud receita
+- **Data da atividade:** 18/09/2026
+- **Tipo:** feature
+- **O que foi alterado:** Atualiza usuários, controladores, rotas e serviços no backend.
+- **Base da síntese:** caminhos, status e estatísticas dos arquivos do commit; patch não disponível.
+- **Escopo observado:** 5 arquivo(s), +82/-23 linhas
+- **Evidências:**
+  - Branch (main): conloq/Back-End — Data da evidência: 18/09/2026
+  - Commit (159c1ce2): conloq/Back-End — Data do commit: 18/09/2026 · Data do push: 18/09/2026
+
+#### Correção de controladores e serviços.
+
+- **Responsável:** joaoalexandre77
+- **Mensagem original:** fix: Crud receitas Update
+- **Data da atividade:** 18/09/2026
+- **Tipo:** bugfix
+- **O que foi alterado:** Corrige controladores e serviços.
+- **Base da síntese:** caminhos, status e estatísticas dos arquivos do commit; patch não disponível.
+- **Escopo observado:** 2 arquivo(s), +2/-2 linhas
+- **Evidências:**
+  - Branch (main): conloq/Back-End — Data da evidência: 18/09/2026
+  - Commit (a9c47dd4): conloq/Back-End — Data do commit: 18/09/2026 · Data do push: 18/09/2026
+
 ## Tarefas planejadas sem execução GitHub comprovada
 
 Nenhuma tarefa planejada sem execução registrada no período.
@@ -83,6 +111,7 @@ Nenhum teste ou replay local registrado no período.
 
 - **Fix: senha incorreta passando a validação/ Fix: .env no gitignore** — 12/09/2026
 - **fix: Remocao de validacoes inuteis e novas validacoes no usercontroller** — 12/09/2026
+- **fix: Crud receitas Update** — 18/09/2026
 
 ## Como ler as datas
 
