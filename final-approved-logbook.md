@@ -4,12 +4,12 @@ Projeto: Mash
 
 ## Resumo do período
 
-- **Execuções confirmadas:** 4
-- **Evidências de commit:** 4
+- **Execuções confirmadas:** 5
+- **Evidências de commit:** 5
 - **Pull requests associadas:** 0
-- **Tarefas planejadas sem execução:** 0
-- **Frentes envolvidas:** Backend
-- **Último evento recebido:** 19/09/2026 12:57
+- **Tarefas planejadas sem execução:** 1
+- **Frentes envolvidas:** Backend, Frente não identificada
+- **Último evento recebido:** 20/09/2026 21:06
 
 ## Entregas por frente
 
@@ -69,9 +69,32 @@ Projeto: Mash
   - Branch (main): conloq/Back-End — Data da evidência: 19/09/2026
   - Commit (29813186): conloq/Back-End — Data do commit: 19/09/2026 · Data do push: 19/09/2026
 
+### 20/09/2026 · Frente não identificada
+
+#### Adição de documentação.
+
+- **Responsável:** haimonvieira
+- **Mensagem original:** docs: adicionar README com stack, padrao de resposta e regras de contribuicao
+- **Data da atividade:** 20/09/2026
+- **Tipo:** documentation
+- **O que foi alterado:** Adiciona documentação.
+- **Base da síntese:** caminhos, status e estatísticas dos arquivos do commit; patch não disponível.
+- **Escopo observado:** 1 arquivo(s), +61/-0 linhas
+- **Evidências:**
+  - Branch (main): conloq/Back-End — Data da evidência: 20/09/2026
+  - Commit (5b9d52ca): conloq/Back-End — Data do commit: 20/09/2026 · Data do push: 20/09/2026
+
 ## Tarefas planejadas sem execução GitHub comprovada
 
-Nenhuma tarefa planejada sem execução registrada no período.
+Estas entradas representam planejamento. Elas não comprovam alteração de código nem entrega publicada.
+
+### [GERAL] Configurar revisão obrigatória de Pull Requests na branch main
+
+- **Responsável indicado:** haimonvieira
+- **Repositório:** conloq/mash
+- **Data do planejamento:** 20/09/2026
+- **Evidência de planejamento:**
+  - Issue (#35): [conloq/mash](https://github.com/conloq/mash/issues/35) — Data da evidência: 20/09/2026
 
 ## Testes e replays locais
 
