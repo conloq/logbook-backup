@@ -7,9 +7,9 @@ Projeto: Mash
 - **Execuções confirmadas:** 5
 - **Evidências de commit:** 5
 - **Pull requests associadas:** 0
-- **Tarefas planejadas sem execução:** 1
+- **Tarefas planejadas sem execução:** 0
 - **Frentes envolvidas:** Backend, Frente não identificada
-- **Último evento recebido:** 20/09/2026 21:06
+- **Último evento recebido:** 21/09/2026 14:10
 
 ## Entregas por frente
 
@@ -86,15 +86,7 @@ Projeto: Mash
 
 ## Tarefas planejadas sem execução GitHub comprovada
 
-Estas entradas representam planejamento. Elas não comprovam alteração de código nem entrega publicada.
-
-### [GERAL] Configurar revisão obrigatória de Pull Requests na branch main
-
-- **Responsável indicado:** haimonvieira
-- **Repositório:** conloq/mash
-- **Data do planejamento:** 20/09/2026
-- **Evidência de planejamento:**
-  - Issue (#35): [conloq/mash](https://github.com/conloq/mash/issues/35) — Data da evidência: 20/09/2026
+Nenhuma tarefa planejada sem execução registrada no período.
 
 ## Testes e replays locais
 
