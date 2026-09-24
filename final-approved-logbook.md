@@ -4,12 +4,12 @@ Projeto: Mash
 
 ## Resumo do período
 
-- **Execuções confirmadas:** 5
-- **Evidências de commit:** 5
+- **Execuções confirmadas:** 6
+- **Evidências de commit:** 6
 - **Pull requests associadas:** 0
 - **Tarefas planejadas sem execução:** 0
 - **Frentes envolvidas:** Backend, Frente não identificada
-- **Último evento recebido:** 21/09/2026 14:10
+- **Último evento recebido:** 23/09/2026 20:55
 
 ## Entregas por frente
 
@@ -83,6 +83,21 @@ Projeto: Mash
 - **Evidências:**
   - Branch (main): conloq/Back-End — Data da evidência: 20/09/2026
   - Commit (5b9d52ca): conloq/Back-End — Data do commit: 20/09/2026 · Data do push: 20/09/2026
+
+### 23/09/2026 · Backend
+
+#### Atualização de persistência, controladores, rotas, serviços e modelos no backend e configuração de ambiente.
+
+- **Responsável:** joaoalexandre77
+- **Mensagem original:** feat: Create Tempature concluido
+- **Data da atividade:** 23/09/2026
+- **Tipo:** feature
+- **O que foi alterado:** Adiciona ou atualiza persistência, controladores, rotas, serviços e modelos no backend e configuração de ambiente.
+- **Base da síntese:** caminhos, status e estatísticas dos arquivos do commit; patch não disponível.
+- **Escopo observado:** 7 arquivo(s), +159/-3 linhas
+- **Evidências:**
+  - Branch (main): conloq/Back-End — Data da evidência: 23/09/2026
+  - Commit (c9f2e6fb): conloq/Back-End — Data do commit: 23/09/2026 · Data do push: 23/09/2026
 
 ## Tarefas planejadas sem execução GitHub comprovada
 
