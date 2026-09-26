@@ -4,8 +4,8 @@ Projeto: Mash
 
 ## Resumo do período
 
-- **Execuções confirmadas:** 6
-- **Evidências de commit:** 6
+- **Execuções confirmadas:** 7
+- **Evidências de commit:** 7
 - **Pull requests associadas:** 0
 - **Tarefas planejadas sem execução:** 0
 - **Frentes envolvidas:** Backend, Frente não identificada
@@ -98,6 +98,21 @@ Projeto: Mash
 - **Evidências:**
   - Branch (main): conloq/Back-End — Data da evidência: 23/09/2026
   - Commit (c9f2e6fb): conloq/Back-End — Data do commit: 23/09/2026 · Data do push: 23/09/2026
+
+### 24/09/2026 · Backend
+
+#### Atualização de usuários, persistência, controladores e modelos no backend e dependências.
+
+- **Responsável:** joaoalexandre77
+- **Mensagem original:** feat: CRiando as migrations user e temperature
+- **Data da atividade:** 24/09/2026
+- **Tipo:** feature
+- **O que foi alterado:** Adiciona ou atualiza usuários, persistência, controladores e modelos no backend e dependências.
+- **Base da síntese:** caminhos, status e estatísticas dos arquivos do commit; patch não disponível.
+- **Escopo observado:** 8 arquivo(s), +1010/-23 linhas
+- **Evidências:**
+  - Branch (main): conloq/Back-End — Data da evidência: 24/09/2026
+  - Commit (827cef7a): conloq/Back-End — Data do commit: 24/09/2026 · Data do push: 24/09/2026
 
 ## Tarefas planejadas sem execução GitHub comprovada
 
