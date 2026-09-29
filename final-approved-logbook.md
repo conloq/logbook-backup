@@ -4,12 +4,12 @@ Projeto: Mash
 
 ## Resumo do período
 
-- **Execuções confirmadas:** 1
-- **Evidências de commit:** 2
+- **Execuções confirmadas:** 2
+- **Evidências de commit:** 3
 - **Pull requests associadas:** 0
 - **Tarefas planejadas sem execução:** 0
 - **Frentes envolvidas:** Frente não identificada
-- **Último evento recebido:** 27/09/2026 18:09
+- **Último evento recebido:** 28/09/2026 14:14
 
 ## Entregas por frente
 
@@ -29,6 +29,22 @@ Projeto: Mash
   - Branch (padrao-resposta): conloq/Back-End — Data da evidência: 26/09/2026
   - Commit (7137632b): conloq/Back-End — Data do commit: 26/09/2026 · Data do push: 26/09/2026
   - Commit (c5040939): conloq/Back-End — Data do commit: 26/09/2026 · Data do push: 26/09/2026
+
+### 28/09/2026 · Frente não identificada
+
+#### Atualização de documentação.
+
+- **Responsável:** haimonvieira
+- **Mensagem original:** docs: alinhar nomenclatura de rota, coluna e payload (#30)
+- **Data da atividade:** 28/09/2026
+- **Tipo:** documentation
+- **O que foi alterado:** Atualiza documentação.
+- **Base da síntese:** caminhos, status e estatísticas dos arquivos do commit; patch não disponível.
+- **Escopo observado:** 1 arquivo(s), +2/-2 linhas
+- **Evidências:**
+  - Branch (main): conloq/Back-End — Data da evidência: 28/09/2026
+  - Commit (6e6a4439): conloq/Back-End — Data do commit: 28/09/2026 · Data do push: 28/09/2026
+  - Issue (#30): [conloq/Back-End](https://github.com/conloq/Back-End/issues/30)
 
 ## Tarefas planejadas sem execução GitHub comprovada
 
