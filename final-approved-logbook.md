@@ -4,12 +4,12 @@ Projeto: Mash
 
 ## Resumo do período
 
-- **Execuções confirmadas:** 2
-- **Evidências de commit:** 3
+- **Execuções confirmadas:** 3
+- **Evidências de commit:** 4
 - **Pull requests associadas:** 0
 - **Tarefas planejadas sem execução:** 0
 - **Frentes envolvidas:** Frente não identificada
-- **Último evento recebido:** 28/09/2026 14:14
+- **Último evento recebido:** 29/09/2026 15:52
 
 ## Entregas por frente
 
@@ -45,6 +45,21 @@ Projeto: Mash
   - Branch (main): conloq/Back-End — Data da evidência: 28/09/2026
   - Commit (6e6a4439): conloq/Back-End — Data do commit: 28/09/2026 · Data do push: 28/09/2026
   - Issue (#30): [conloq/Back-End](https://github.com/conloq/Back-End/issues/30)
+
+### 29/09/2026 · Frente não identificada
+
+#### Atualização de documentação.
+
+- **Responsável:** haimonvieira
+- **Mensagem original:** docs: documentar papéis da squad (PO, PM e Devs) na seção Equipe
+- **Data da atividade:** 29/09/2026
+- **Tipo:** documentation
+- **O que foi alterado:** Atualiza documentação.
+- **Base da síntese:** caminhos, status e estatísticas dos arquivos do commit; patch não disponível.
+- **Escopo observado:** 1 arquivo(s), +371/-361 linhas
+- **Evidências:**
+  - Branch (main): conloq/mash — Data da evidência: 29/09/2026
+  - Commit (66613964): conloq/mash — Data do commit: 29/09/2026 · Data do push: 29/09/2026
 
 ## Tarefas planejadas sem execução GitHub comprovada
 
