@@ -4,12 +4,12 @@ Projeto: Mash
 
 ## Resumo do período
 
-- **Execuções confirmadas:** 1
-- **Evidências de commit:** 1
+- **Execuções confirmadas:** 2
+- **Evidências de commit:** 2
 - **Pull requests associadas:** 0
 - **Tarefas planejadas sem execução:** 0
 - **Frentes envolvidas:** Frente não identificada
-- **Último evento recebido:** 07/10/2026 17:49
+- **Último evento recebido:** 08/10/2026 17:20
 
 ## Entregas por frente
 
@@ -27,6 +27,21 @@ Projeto: Mash
 - **Evidências:**
   - Branch (main): conloq/Back-End — Data da evidência: 07/10/2026
   - Commit (0ef91f80): conloq/Back-End — Data do commit: 07/10/2026 · Data do push: 07/10/2026
+
+### 08/10/2026 · Frente não identificada
+
+#### Atualização de documentação.
+
+- **Responsável:** haimonvieira
+- **Mensagem original:** docs: registrar o Team Lead como Product Owner
+- **Data da atividade:** 08/10/2026
+- **Tipo:** documentation
+- **O que foi alterado:** Atualiza documentação.
+- **Base da síntese:** caminhos, status e estatísticas dos arquivos do commit; patch não disponível.
+- **Escopo observado:** 1 arquivo(s), +1/-1 linhas
+- **Evidências:**
+  - Branch (main): conloq/mash — Data da evidência: 08/10/2026
+  - Commit (a79714eb): conloq/mash — Data do commit: 08/10/2026 · Data do push: 08/10/2026
 
 ## Tarefas planejadas sem execução GitHub comprovada
 
