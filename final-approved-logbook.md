@@ -4,12 +4,12 @@ Projeto: Mash
 
 ## Resumo do período
 
-- **Execuções confirmadas:** 2
-- **Evidências de commit:** 2
+- **Execuções confirmadas:** 3
+- **Evidências de commit:** 5
 - **Pull requests associadas:** 0
 - **Tarefas planejadas sem execução:** 0
 - **Frentes envolvidas:** Frente não identificada
-- **Último evento recebido:** 08/10/2026 17:20
+- **Último evento recebido:** 09/10/2026 13:46
 
 ## Entregas por frente
 
@@ -43,6 +43,25 @@ Projeto: Mash
   - Branch (main): conloq/mash — Data da evidência: 08/10/2026
   - Commit (a79714eb): conloq/mash — Data do commit: 08/10/2026 · Data do push: 08/10/2026
 
+### 09/10/2026 · Frente não identificada
+
+#### Correção de documentação.
+
+- **Responsável:** haimonvieira
+- **Mensagem original:** docs: corrigir a nota de repositório privado e citar a revisão automática (#35)
+- **Data da atividade:** 09/10/2026
+- **Tipo:** bugfix
+- **O que foi alterado:** Corrige documentação.
+- **Base da síntese:** caminhos, status e estatísticas dos arquivos do commit; patch não disponível.
+- **Escopo observado:** 3 arquivo(s), +19/-1 linhas
+- **Evidências:**
+  - Branch (35-revisao-automatica): conloq/Back-End — Data da evidência: 09/10/2026
+  - Branch (main): conloq/Back-End — Data da evidência: 09/10/2026
+  - Commit (2d278e13): conloq/Back-End — Data do commit: 09/10/2026 · Data do push: 09/10/2026
+  - Commit (70d67c05): conloq/Back-End — Data do commit: 09/10/2026 · Data do push: 09/10/2026
+  - Commit (b79f7a83): conloq/Back-End — Data do commit: 09/10/2026 · Data do push: 09/10/2026
+  - Issue (#35): [conloq/Back-End](https://github.com/conloq/Back-End/issues/35)
+
 ## Tarefas planejadas sem execução GitHub comprovada
 
 Nenhuma tarefa planejada sem execução registrada no período.
@@ -53,7 +72,7 @@ Nenhum teste ou replay local registrado no período.
 
 ## Problemas resolvidos
 
-Nenhum problema registrado neste período.
+- **chore: adicionar CODEOWNERS e configuração do CodeRabbit (#35)** — 09/10/2026
 
 ## Como ler as datas
 
